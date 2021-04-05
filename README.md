@@ -17,7 +17,7 @@
 - Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id-naming conventions, indentation, quality comments, etc.).
 - Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
-## Pages Link: 
+[Link to Webpage](https://wberry86.github.io/horiseon-code-refactor/)
 
 ## Preview
 [![Screenshot-1.png](https://i.postimg.cc/9M6bQcrF/Screenshot-1.png)](https://postimg.cc/vgvfPFrp)
